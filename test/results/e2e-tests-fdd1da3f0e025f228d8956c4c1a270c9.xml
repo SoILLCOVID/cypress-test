@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="3.996" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-11-18T17:39:54" tests="0" file="cypress\integration\covid-tests\spies_stubs_clocks.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Spies, Stubs, and Clock" timestamp="2020-11-18T17:39:54" tests="7" failures="0" time="3.996">
+    <testcase name="Spies, Stubs, and Clock cy.spy() - wrap a method in a spy" time="0.406" classname="cy.spy() - wrap a method in a spy">
+    </testcase>
+    <testcase name="Spies, Stubs, and Clock cy.spy() retries until assertions pass" time="2.542" classname="cy.spy() retries until assertions pass">
+    </testcase>
+    <testcase name="Spies, Stubs, and Clock cy.stub() - create a stub and/or replace a function with stub" time="0.181" classname="cy.stub() - create a stub and/or replace a function with stub">
+    </testcase>
+    <testcase name="Spies, Stubs, and Clock cy.clock() - control time in the browser" time="0.308" classname="cy.clock() - control time in the browser">
+    </testcase>
+    <testcase name="Spies, Stubs, and Clock cy.tick() - move time in the browser" time="0.431" classname="cy.tick() - move time in the browser">
+    </testcase>
+    <testcase name="Spies, Stubs, and Clock cy.stub() matches depending on arguments" time="0.053" classname="cy.stub() matches depending on arguments">
+    </testcase>
+    <testcase name="Spies, Stubs, and Clock matches call arguments using Sinon matchers" time="0.075" classname="matches call arguments using Sinon matchers">
+    </testcase>
+  </testsuite>
+</testsuites>

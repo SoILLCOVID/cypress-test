@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="14.679000000000002" tests="14" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-11-18T17:43:37" tests="0" file="cypress\integration\covid-tests\actions.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Actions" timestamp="2020-11-18T17:43:37" tests="14" failures="0" time="14.679000000000002">
+    <testcase name="Actions .type() - type into a DOM element" time="4.369" classname=".type() - type into a DOM element">
+    </testcase>
+    <testcase name="Actions .focus() - focus on a DOM element" time="0.413" classname=".focus() - focus on a DOM element">
+    </testcase>
+    <testcase name="Actions .blur() - blur off a DOM element" time="0.528" classname=".blur() - blur off a DOM element">
+    </testcase>
+    <testcase name="Actions .clear() - clears an input or textarea element" time="0.592" classname=".clear() - clears an input or textarea element">
+    </testcase>
+    <testcase name="Actions .submit() - submit a form" time="0.481" classname=".submit() - submit a form">
+    </testcase>
+    <testcase name="Actions .click() - click on a DOM element" time="2.144" classname=".click() - click on a DOM element">
+    </testcase>
+    <testcase name="Actions .dblclick() - double click on a DOM element" time="0.297" classname=".dblclick() - double click on a DOM element">
+    </testcase>
+    <testcase name="Actions .rightclick() - right click on a DOM element" time="0.274" classname=".rightclick() - right click on a DOM element">
+    </testcase>
+    <testcase name="Actions .check() - check a checkbox or radio element" time="0.941" classname=".check() - check a checkbox or radio element">
+    </testcase>
+    <testcase name="Actions .uncheck() - uncheck a checkbox element" time="0.954" classname=".uncheck() - uncheck a checkbox element">
+    </testcase>
+    <testcase name="Actions .select() - select an option in a &lt;select&gt; element" time="1.043" classname=".select() - select an option in a &lt;select&gt; element">
+    </testcase>
+    <testcase name="Actions .scrollIntoView() - scroll an element into view" time="0.25" classname=".scrollIntoView() - scroll an element into view">
+    </testcase>
+    <testcase name="Actions .trigger() - trigger an event on a DOM element" time="0.219" classname=".trigger() - trigger an event on a DOM element">
+    </testcase>
+    <testcase name="Actions cy.scrollTo() - scroll the window or element to a position" time="2.174" classname="cy.scrollTo() - scroll the window or element to a position">
+    </testcase>
+  </testsuite>
+</testsuites>

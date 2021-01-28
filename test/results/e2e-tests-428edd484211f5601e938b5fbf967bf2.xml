@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.823" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-11-18T17:47:12" tests="0" file="cypress\integration\soill-covid-tests\soillcovid-login.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Window" timestamp="2020-11-18T17:47:12" tests="1" failures="0" time="1.823">
+    <testcase name="Window sets auth cookie when logging in via form submission" time="1.823" classname="sets auth cookie when logging in via form submission">
+    </testcase>
+  </testsuite>
+</testsuites>

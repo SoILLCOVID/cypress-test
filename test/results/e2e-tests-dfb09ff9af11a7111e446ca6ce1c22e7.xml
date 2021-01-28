@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.979" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-01-27T21:39:01" tests="0" file="cypress\integration\covid-tests\utilities.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Utilities" timestamp="2021-01-27T21:39:01" tests="6" failures="0" time="2.979">
+    <testcase name="Utilities Cypress._ - call a lodash method" time="0.605" classname="Cypress._ - call a lodash method">
+    </testcase>
+    <testcase name="Utilities Cypress.$ - call a jQuery method" time="0.34" classname="Cypress.$ - call a jQuery method">
+    </testcase>
+    <testcase name="Utilities Cypress.Blob - blob utilities and base64 string conversion" time="0.419" classname="Cypress.Blob - blob utilities and base64 string conversion">
+    </testcase>
+    <testcase name="Utilities Cypress.minimatch - test out glob patterns against strings" time="0.197" classname="Cypress.minimatch - test out glob patterns against strings">
+    </testcase>
+    <testcase name="Utilities Cypress.moment() - format or parse dates using a moment method" time="0.214" classname="Cypress.moment() - format or parse dates using a moment method">
+    </testcase>
+    <testcase name="Utilities Cypress.Promise - instantiate a bluebird promise" time="1.204" classname="Cypress.Promise - instantiate a bluebird promise">
+    </testcase>
+  </testsuite>
+</testsuites>

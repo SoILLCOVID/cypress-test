@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2021-01-27T21:39:59" tests="0" file="cypress\integration\soill-covid-tests\soillcovid-login.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Window" timestamp="2021-01-27T21:39:59" tests="1" failures="1" time="0">
+    <testcase name="Window sets auth cookie when logging in via form submission" time="0" classname="sets auth cookie when logging in via form submission">
+      <failure message="Timed out retrying: expected &apos;&lt;a#welcome-msg.nav-link&gt;&apos; to contain &apos;John&apos;" type="AssertionError"><![CDATA[AssertionError: Timed out retrying: expected '<a#welcome-msg.nav-link>' to contain 'John'
+    at Context.eval (https://soillcovid.github.io/__cypress/tests?p=cypress\integration\soill-covid-tests\soillcovid-login.spec.js:112:28)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

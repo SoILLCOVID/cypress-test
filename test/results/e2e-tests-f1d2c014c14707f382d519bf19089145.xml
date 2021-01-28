@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.553" tests="6" failures="2">
+  <testsuite name="Root Suite" timestamp="2020-11-18T17:45:04" tests="0" file="cypress\integration\covid-tests\misc.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Misc" timestamp="2020-11-18T17:45:04" tests="4" failures="2" time="0.542">
+    <testcase name="Misc .end() - end the command chain" time="0" classname=".end() - end the command chain">
+      <failure message="Timed out retrying: Expected to find element: `.misc-table`, but never found it." type="AssertionError"><![CDATA[AssertionError: Timed out retrying: Expected to find element: `.misc-table`, but never found it.
+    at Context.eval (https://soillcovid.github.io/__cypress/tests?p=cypress\integration\covid-tests\misc.spec.js:108:8)]]></failure>
+    </testcase>
+    <testcase name="Misc cy.exec() - execute a system command" time="0.423" classname="cy.exec() - execute a system command">
+    </testcase>
+    <testcase name="Misc cy.focused() - get the DOM element that has focus" time="0" classname="cy.focused() - get the DOM element that has focus">
+      <failure message="Timed out retrying: Expected to find element: `.misc-form`, but never found it." type="AssertionError"><![CDATA[AssertionError: Timed out retrying: Expected to find element: `.misc-form`, but never found it.
+    at Context.eval (https://soillcovid.github.io/__cypress/tests?p=cypress\integration\covid-tests\misc.spec.js:154:8)]]></failure>
+    </testcase>
+    <testcase name="Misc cy.wrap() - wrap an object" time="0.119" classname="cy.wrap() - wrap an object">
+    </testcase>
+  </testsuite>
+  <testsuite name="Cypress.Screenshot" timestamp="2020-11-18T17:45:16" tests="2" failures="0" time="2.011">
+    <testcase name="Misc Cypress.Screenshot cy.screenshot() - take a screenshot" time="1.834" classname="cy.screenshot() - take a screenshot">
+    </testcase>
+    <testcase name="Misc Cypress.Screenshot Cypress.Screenshot.defaults() - change default config of screenshots" time="0.177" classname="Cypress.Screenshot.defaults() - change default config of screenshots">
+    </testcase>
+  </testsuite>
+</testsuites>

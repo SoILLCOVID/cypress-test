@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="4.116" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-11-18T17:38:35" tests="0" file="cypress\integration\covid-tests\files.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Files" timestamp="2020-11-18T17:38:35" tests="4" failures="0" time="4.116">
+    <testcase name="Files cy.fixture() - load a fixture" time="0.859" classname="cy.fixture() - load a fixture">
+    </testcase>
+    <testcase name="Files cy.fixture() or require - load a fixture" time="0.158" classname="cy.fixture() or require - load a fixture">
+    </testcase>
+    <testcase name="Files cy.readFile() - read file contents" time="0.221" classname="cy.readFile() - read file contents">
+    </testcase>
+    <testcase name="Files cy.writeFile() - write to a file" time="2.878" classname="cy.writeFile() - write to a file">
+    </testcase>
+  </testsuite>
+</testsuites>

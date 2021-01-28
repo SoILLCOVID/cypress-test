@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.9900000000000002" tests="8" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-01-27T21:36:45" tests="0" file="cypress\integration\covid-tests\connectors.spec.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Connectors" timestamp="2021-01-27T21:36:45" tests="4" failures="0" time="1.1480000000000001">
+    <testcase name="Connectors .each() - iterate over an array of elements" time="0.56" classname=".each() - iterate over an array of elements">
+    </testcase>
+    <testcase name="Connectors .its() - get properties on the current subject" time="0.203" classname=".its() - get properties on the current subject">
+    </testcase>
+    <testcase name="Connectors .invoke() - invoke a function on the current subject" time="0.211" classname=".invoke() - invoke a function on the current subject">
+    </testcase>
+    <testcase name="Connectors .spread() - spread an array as individual args to callback function" time="0.174" classname=".spread() - spread an array as individual args to callback function">
+    </testcase>
+  </testsuite>
+  <testsuite name=".then()" timestamp="2021-01-27T21:36:48" tests="4" failures="0" time="0.8420000000000001">
+    <testcase name="Connectors .then() invokes a callback function with the current subject" time="0.212" classname="invokes a callback function with the current subject">
+    </testcase>
+    <testcase name="Connectors .then() yields the returned value to the next command" time="0.213" classname="yields the returned value to the next command">
+    </testcase>
+    <testcase name="Connectors .then() yields the original subject without return" time="0.221" classname="yields the original subject without return">
+    </testcase>
+    <testcase name="Connectors .then() yields the value yielded by the last Cypress command inside" time="0.196" classname="yields the value yielded by the last Cypress command inside">
+    </testcase>
+  </testsuite>
+</testsuites>
